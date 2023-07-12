@@ -47,6 +47,8 @@ Course Objectives:
 - Exploring General-Purpose Input/Output (GPIO) pins on the STM32 microcontroller
 - Controlling LEDs on the Discovery Board using GPIOs
 - Implementing basic LED blinking patterns and user interaction
+- memory-mapped I/O
+- I/O mapped I/O.
 
 ### Interrupts
 
