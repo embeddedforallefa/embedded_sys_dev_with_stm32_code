@@ -18,9 +18,9 @@ Course Objectives:
 
 ### Introduction to Embedded Systems
 
-- Understanding the fundamentals of embedded systems
-- Applications of embedded systems
 - Why you should learn embedded systems
+- Applications of embedded systems
+- Understanding the fundamentals of embedded systems
 
 ### Microcontroller Basics
 

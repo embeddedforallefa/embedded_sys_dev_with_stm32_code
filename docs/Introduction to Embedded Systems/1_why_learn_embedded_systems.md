@@ -1,6 +1,6 @@
 # Why You Should Learn Embedded Systems
 
-Imagine. while you are walking down the street, you overheard someone saying "Embedded Devices are everywhere". This thought stuck in your mind. All this while these devices seem to hide from you but now these devices started appearing.
+Imagine. You are walking down the street, you overheard someone saying "Embedded Devices are everywhere". This thought stuck in your mind. All this while these devices seem to hide from you but now these devices started appearing.
 
 As you entered the house, you couldn't help but notice something different. The familiar surroundings seemed to have a subtle glow of excitement. Curiosity sparked within you as you glanced around, and you soon realized that your home was filled with embedded devices, each quietly performing its unique task.
 
