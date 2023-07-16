@@ -69,6 +69,14 @@ Course Objectives:
 - Concepts: Duty Cycle, Pule Width
 - Generating PWM signals for controlling motor speed, LED brightness, etc.
 
+### Analog to Digital Conversion (ADC)
+
+- Understanding ADC and its applications
+- Concepts: resolution
+- Configuring ADC on STM32
+- Reading analog signals from sensors
+- Converting digital data to physical values
+
 ### UART Communication
 
 - Introduction to UART (Universal Asynchronous Receiver-Transmitter) and its applications
@@ -93,13 +101,13 @@ Course Objectives:
 - Sending and receiving data through I2C
 - Implementing serial communication with external devices and modules
 
-### Analog to Digital Conversion (ADC)
+### CAN Communication
 
-- Understanding ADC and its applications
-- Concepts: resolution
-- Configuring ADC on STM32
-- Reading analog signals from sensors
-- Converting digital data to physical values
+- Introduction to CAN and its applications
+- Protocol overview
+- Configuring CAN communication on STM32
+- Sending and receiving data through CAN
+- Implementing serial communication with external devices and modules
 
 ### Memory and Storage Management
 
@@ -117,7 +125,7 @@ By the end of this course, you will have gained:
 
 - Comprehensive understanding of embedded systems development.
 - Proficiency in embedded C programming
-- Hands-on experience using the STM32 Discovery Board. 
+- Hands-on experience using the STM32 Discovery Board.
 - You will be equipped to develop innovative embedded systems solutions, pursue a career in embedded systems engineering, or undertake further studies in the field.
 
 Join us now and embark on your journey to become an expert in Embedded Systems Development with the STM32 Discovery Board!
