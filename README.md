@@ -22,7 +22,7 @@ Course Objectives:
 - Applications of embedded systems
 - Understanding the fundamentals of embedded systems
 
-### Microcontroller Basics
+### Introduction to Microcontrollers
 
 - Understanding microcontrollers and their architecture
 - Difference between microcontroller and microprocessor
