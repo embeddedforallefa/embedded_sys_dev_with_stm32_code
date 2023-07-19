@@ -32,6 +32,6 @@ Key components in the block diagram:
 
 5. I/O Peripherals: This section comprises input/output peripherals like GPIO (General Purpose Input/Output) pins, which allow the microcontroller to interface with external devices and sensors.
 
-Information in the above block diagram looks overwhelming. But stay with me till the end of this course you will understand most of stuff present here and learn to use this information in developing embedded software.
+If you are a beginner, information in the above block diagram would look overwhelming. But stay with me till the end of this course you will understand most of stuff present here and learn to use this information in developing embedded software.
 
 Next you will learn some of the fundamental concepts in microcontrollers and you will develop better understanding of microcontrollers and embedded systems in general.
