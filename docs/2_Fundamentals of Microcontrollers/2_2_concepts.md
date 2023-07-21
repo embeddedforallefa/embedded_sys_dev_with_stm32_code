@@ -1,3 +1,5 @@
+# Microcontroller Concepts
+
 Now that you are got introduced to Microcontrollers, it's time to get introduced to some key concepts. 
 
 **Architecture:** Computer architecture defines the structure and interrelationships of the components of a system, such as input/output, storage, communication, control, and processing.
