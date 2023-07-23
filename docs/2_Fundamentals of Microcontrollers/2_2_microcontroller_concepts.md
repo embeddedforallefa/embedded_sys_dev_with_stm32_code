@@ -1,13 +1,13 @@
 # Microcontroller Concepts
 
-Now that you are got introduced to Microcontrollers, it's time to get introduced to some key concepts. 
+Now that you know a bit about Microcontrollers, it's time to get introduced to some key concepts.
 
 **Architecture:** Computer architecture defines the structure and interrelationships of the components of a system, such as input/output, storage, communication, control, and processing.
 It also determines the capabilities and programming model of a computer, as well as the logical interface that is targeted by programming languages and their compilers.
 
 **Central Processing Unit (CPU):** The CPU is like the brain of the microcontroller. It's responsible for executing instructions and making decisions. Imagine it as the person who follows the step-by-step instructions given to them to perform specific tasks.
 
-**Instruction set:** "instruction set" is like the list of commands or instructions that a computer processor or microcontroller can understand and execute. It's the language that the central processing unit (CPU) of the computer or microcontroller speaks. some examples are - **MOV (Move), ADD (Addition), CMP (Compare), B (Branch).**
+**Instruction set:** "instruction set" is like the list of commands or instructions that a computer processor or microcontroller can understand and execute. It's the language that the central processing unit (CPU) of the computer or microcontroller speaks. some examples are - MOV (Move), ADD (Addition), CMP (Compare), B (Branch).
 
 **Register:** a "register" is a small, fast storage area inside the central processing unit (CPU) that is used to store data temporarily during the execution of a program. Think of registers as tiny, super-fast storage units that the CPU can access quickly. They play a crucial role in the microcontroller's processing of instructions and data.
 

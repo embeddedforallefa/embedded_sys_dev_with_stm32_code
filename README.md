@@ -22,10 +22,11 @@ Course Objectives:
 - Applications of embedded systems
 - Understanding the fundamentals of embedded systems
 
-### Introduction to Microcontrollers
+### Fundamentals of Microcontrollers
 
-- Understanding microcontrollers and their architecture
-- Difference between microcontroller and microprocessor
+- Introduction to Microcontrollers
+- Microcontroller Concepts
+- Different Microcontroller architectures
 - Introduction to the ARM Cortex-M core
 - STM32 microcontroller families and their specifications
 
