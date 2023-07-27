@@ -27,17 +27,16 @@ Course Objectives:
 - Introduction to Microcontrollers
 - Microcontroller Concepts
 - Different Microcontroller architectures
-- Introduction to the ARM Cortex-M core
-- STM32 microcontroller families and their specifications
+- Introduction to the ARM architectures
 
-### STM32 Discovery Board Overview
+### STM32F4DISCOVERY Board
 
-- Overview of the STM32 Discovery Board and its key features
+- Overview of STM32F4DISCOVERY Board and its key features
 - Familiarization with the STM32 microcontroller series and their features
 - Setting up the development environment with STM32CubeIDE
 - Introduction to the STM32Cube software development platform
 
-### Embedded C Programming Essentials
+### Embedded C Programming Essentials (is part of example programs)
 
 - Exploring the basics of C programming language for embedded systems
 - Data types, variables, operators, and control structures in C
