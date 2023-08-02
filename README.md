@@ -32,7 +32,7 @@ Course Objectives:
 ### STM32F4DISCOVERY Board
 
 - Overview of STM32F4DISCOVERY Board and its key features
-- Familiarization with the STM32 microcontroller series and their features
+- Familiarization with the STM32F407VGT6 microcontroller and its features
 - Setting up the development environment with STM32CubeIDE
 - Introduction to the STM32Cube software development platform
 
