@@ -23,3 +23,5 @@ Understanding the fundamentals of embedded systems involves learning about key c
 7. System integration and testing: Embedded systems are often part of larger systems and must be integrated and tested with other components to ensure proper functionality and compatibility. System integration involves connecting hardware and software modules, verifying interfaces, and validating system-level behavior. Testing methodologies like unit testing, integration testing, and system-level testing are employed to detect and resolve issues.
 
 8. Safety and security: Depending on the application, embedded systems may need to comply with safety standards and requirements. Safety-critical systems, such as those used in aerospace or medical devices, require rigorous design, testing, and verification to ensure reliable and fail-safe operation. Security measures are also essential to protect embedded systems from unauthorized access, data breaches, and malicious attacks.
+
+These are some of the areas you need to understand to design embedded systems.
