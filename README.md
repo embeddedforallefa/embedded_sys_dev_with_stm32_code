@@ -42,13 +42,14 @@ Course Objectives:
 - Data types, variables, operators, and control structures in C
 - Memory management and pointers in embedded C
 
-### GPIO and LED Control
+### Project 1: GPIOs, LED Control and Switch input
 
-- Exploring General-Purpose Input/Output (GPIO) pins on the STM32 microcontroller
-- Controlling LEDs on the Discovery Board using GPIOs
-- Implementing basic LED blinking patterns and user interaction
+- Exploring General-Purpose Input/Output (GPIO) pins on the STM32F407VGT6 microcontroller
+- MP 1: Controlling LEDs on the Discovery Board using GPIOs
+- MP 2: Reading Pushbutton switch status
+- MP 3: Implementing basic LED blinking patterns and user interaction
 - memory-mapped I/O
-- I/O mapped I/O.
+- I/O mapped I/O
 
 ### Interrupts
 
