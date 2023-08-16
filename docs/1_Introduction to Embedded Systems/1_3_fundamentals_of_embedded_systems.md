@@ -2,7 +2,7 @@
 
 After exploring some of the applications of embedded systems, you want to know what the areas you need to understand to design embedded systems.
 
-Embedded systems are a combination of hardware and software designed to perform specific functions within devices or a as standalone device.
+Embedded systems are a combination of hardware and software, designed to perform specific functions within devices or a as standalone device.
 
 Embedded systems consist of a microcontroller or microprocessor as the central component. The choice of microcontroller or microprocessor depends on the specific requirements of the system. These systems are designed to be highly efficient, reliable, and often operate in real-time, where responsiveness and timing are critical.
 
