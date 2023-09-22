@@ -2,6 +2,8 @@
 "./Core/Src/main.o"
 "./Core/Src/stm32f4xx_hal_msp.o"
 "./Core/Src/stm32f4xx_it.o"
+"./Core/Src/switch_read_led_write.o"
+"./Core/Src/switch_read_led_write_debounce.o"
 "./Core/Src/syscalls.o"
 "./Core/Src/sysmem.o"
 "./Core/Src/system_stm32f4xx.o"

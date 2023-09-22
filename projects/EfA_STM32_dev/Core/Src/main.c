@@ -18,7 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "led_control.h"
+#include "switch_read_led_write.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -95,12 +95,10 @@ int main(void)
   while (1)
   {
 	  /* USER CODE BEGIN 3 */
-	  Led_Toggle_GPIO_PIN_12(DELAY_IN_MS);
+	  Read_GPIOA_PIN_0_Write_GPIOD_PIN_12();
 	  /* USER CODE END 3 */
   }
-  /* USER CODE END WHILE */
-
-  return 0;
+    /* USER CODE END WHILE */
 }
 
 /**
@@ -156,10 +154,17 @@ static void MX_GPIO_Init(void)
 /* USER CODE END MX_GPIO_Init_1 */
 
   /* GPIO Ports Clock Enable */
+  __HAL_RCC_GPIOA_CLK_ENABLE();
   __HAL_RCC_GPIOD_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(GPIOD, GPIO_PIN_12, GPIO_PIN_RESET);
+
+  /*Configure GPIO pin : PA0 */
+  GPIO_InitStruct.Pin = GPIO_PIN_0;
+  GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
   /*Configure GPIO pin : PD12 */
   GPIO_InitStruct.Pin = GPIO_PIN_12;

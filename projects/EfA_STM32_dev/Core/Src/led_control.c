@@ -15,4 +15,3 @@ void Led_Toggle_GPIO_PIN_12(uint32_t Delay)
 	HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_12);
 }
 
-
