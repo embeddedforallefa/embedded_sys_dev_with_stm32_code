@@ -1,0 +1,5 @@
+../Core/Src/led_patterns.c:17:6:Led_Single_On	16	static
+../Core/Src/led_patterns.c:34:6:Led_Pattern_Clockwise	16	static
+../Core/Src/led_patterns.c:54:6:Led_Pattern_Anti_Clockwise	16	static
+../Core/Src/led_patterns.c:74:6:Led_Pattern_All_Blink	16	static
+../Core/Src/led_patterns.c:88:6:Generate_LED_Patterns	8	static

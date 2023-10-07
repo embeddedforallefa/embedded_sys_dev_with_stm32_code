@@ -5,8 +5,8 @@
  *      Author: Veeresh PS
  */
 
-#ifndef INC_LED_CONTROL_H_
-#define INC_LED_CONTROL_H_
+#ifndef INC_LED_CONTROL_
+#define INC_LED_CONTROL_
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx_hal.h"
@@ -21,4 +21,4 @@
  */
 void Led_Toggle_GPIO_PIN_12(uint32_t Delay);
 
-#endif /* INC_LED_CONTROL_H_ */
+#endif /* INC_LED_CONTROL_ */

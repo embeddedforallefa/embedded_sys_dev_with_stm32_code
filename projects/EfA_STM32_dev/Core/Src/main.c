@@ -18,7 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "switch_read_led_write.h"
+#include "led_patterns.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -95,7 +95,7 @@ int main(void)
   while (1)
   {
 	  /* USER CODE BEGIN 3 */
-	  Read_GPIOA_PIN_0_Write_GPIOD_PIN_12();
+	  Generate_LED_Patterns();
 	  /* USER CODE END 3 */
   }
     /* USER CODE END WHILE */

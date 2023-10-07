@@ -5,8 +5,8 @@
  *      Author: Veeresh PS
  */
 
-#ifndef INC_SWITCH_READ_LED_WRITE_H_
-#define INC_SWITCH_READ_LED_WRITE_H_
+#ifndef INC_SWITCH_READ_LED_WRITE_
+#define INC_SWITCH_READ_LED_WRITE_
 
 
 /* Includes ------------------------------------------------------------------*/
@@ -27,4 +27,4 @@ typedef enum
 void Read_GPIOA_PIN_0_Write_GPIOD_PIN_12(void);
 
 
-#endif /* INC_SWITCH_READ_LED_WRITE_H_ */
+#endif /* INC_SWITCH_READ_LED_WRITE_ */
